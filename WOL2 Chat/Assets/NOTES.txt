@@ -1,0 +1,21 @@
+Add Player layer (9*), player on that layer
+Add Interact layer(8*,interactScript raycasts) 
+Interact doesn't collide with anything but itself and player(?**)
+
+Interact script on player/move to Player controller? 
+Change Inputs in Interact, readDialogue.
+
+GameState- move to GC
+ReadDialogue on GC
+diaryStorage on GC (Move if needed?)
+Main canvas = child of GC
+
+
+
+
+
+
+
+
+*Current layer int. Change if needed? 
+** may not be neccisarry. May interfere w/ collision.
